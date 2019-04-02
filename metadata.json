@@ -1,0 +1,7 @@
+{
+  "name": "Mouse Speed Slider",
+  "description": "Change mouse sensitivity",
+  "settings-schema": "org.gnome.shell.extensions.mousespeedslider",
+  "uuid": "mouse-speed-slider@rasto.vangor.gmail.com",
+  "shell-version": ["3.28.3"]
+}
